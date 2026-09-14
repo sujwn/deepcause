@@ -174,4 +174,4 @@ Passed as the second argument to `serializeError`.
 
 ## License
 
-[[MIT]]
+[MIT](LICENSE)
